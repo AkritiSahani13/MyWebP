@@ -1,0 +1,101 @@
+/* *{
+    padding : 0;
+    margin : 0;
+    color : white;
+}
+
+#navbar {
+    height : 60px;
+    /* background-color: #0f1111;
+    /* border-width: 5px;
+    border-color: white;
+}
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+} */  
+
+ /* div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+} */
+/* 
+
+#box1{
+   
+  height: 100px;   
+  width: 200px;
+  background-color: green; 
+  font-size: 10px;
+} 
+
+#box2{
+    background-color: yellow;  
+    height: 70vh;
+    width: 50%; 
+    margin-left: 10%;  
+     font-size: 2em;
+    width: 5em;
+  }  */
+
+/* #box3{
+    background-color: rgba(0,0,225,1);     
+  }  */
+/* 
+ div{
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+  border: 2px solid black;
+  display: inline-block;
+}
+
+#box1{
+    background-image: url("H:\images\america.png");
+}
+
+body{
+    background-image: url("H:\images\america.png");
+    background-size: cover;
+} */
+/*
+#box2{
+    position: fixed;
+    top: 20px;
+    left: 10px;
+    
+}
+
+#box3{
+    position: relative;
+    top : 0;
+    left : 10px;
+    z-index: 1;
+ }*/
+
+ /* #box4{
+   background-image: url("H:\html coding\4588f4cd1adf2086230321226570f62b.jpg");
+ }  */
+
+ div{
+    height: 100px;
+    width: 100px;
+    background-image: url("H:\html coding\comput.jpg");
+    background-size: cover;
+    color: rgb(250, 52, 17);
+    position: fixed;
+    bottom: 20px;
+    right: 20px;;
+ }
